@@ -51,6 +51,7 @@ TARGET_HW_DISK_ENCRYPTION := true
 
 # Keymaster
 TARGET_PROVIDES_KEYMASTER := true
+TARGET_CRYPTFS_HW_PATH := device/xiaomi/land/cryptfs_hw
 
 # Partitions
 BOARD_BOOTIMAGE_PARTITION_SIZE := 67108864
